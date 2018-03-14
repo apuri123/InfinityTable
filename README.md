@@ -1,0 +1,2 @@
+# InfinityTable
+tableoftheinfinity variety
